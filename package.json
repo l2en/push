@@ -1,0 +1,13 @@
+{
+  "name": "push",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "push": "push.js"
+  },
+  "scripts": {
+    "psuh": "node ./push.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
